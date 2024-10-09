@@ -1,18 +1,18 @@
 ## Usuarios
 
 ### Comum:
-Usuario: Comum@Gmail.com
+Usuario: Comum@Gmail.com <br />
 Senha: Comum12345
 
 ### Administrador:
-Usuario: Administrador@gmail.com
+Usuario: Administrador@gmail.com <br />
 Senha: ADM12345
 
 
 ## Nova Categoria e Produto:
 
 ### Categoria:
-nome:
+nome: <br />
 Icon:
 
 ### Produto:
